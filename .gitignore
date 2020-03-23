@@ -1,5 +1,10 @@
+#*
 *~
 .gitignore
 *.brio
 *.txt
-#*
+*.root
+*.conf
+*.log
+*/*.png
+scripts/efficiency
